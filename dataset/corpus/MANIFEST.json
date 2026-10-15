@@ -1,0 +1,114 @@
+{
+  "frame": "2026-08-22",
+  "size": 1000,
+  "ecosystems": [
+    {
+      "ecosystem": "pypi",
+      "source": "ecosyste.ms",
+      "metric": "downloads",
+      "window": "preceding month",
+      "packages": 1000
+    },
+    {
+      "ecosystem": "npm",
+      "source": "ecosyste.ms",
+      "metric": "dependent packages",
+      "window": "cumulative",
+      "packages": 1000
+    },
+    {
+      "ecosystem": "rubygems",
+      "source": "ecosyste.ms",
+      "metric": "downloads",
+      "window": "cumulative",
+      "packages": 1000
+    },
+    {
+      "ecosystem": "maven",
+      "source": "ecosyste.ms",
+      "metric": "dependent packages",
+      "window": "cumulative",
+      "packages": 1000
+    },
+    {
+      "ecosystem": "nuget",
+      "source": "ecosyste.ms",
+      "metric": "downloads",
+      "window": "cumulative",
+      "packages": 1000
+    },
+    {
+      "ecosystem": "packagist",
+      "source": "ecosyste.ms",
+      "metric": "downloads",
+      "window": "cumulative",
+      "packages": 1000
+    },
+    {
+      "ecosystem": "go",
+      "source": "ecosyste.ms",
+      "metric": "dependent packages",
+      "window": "cumulative",
+      "packages": 1000
+    },
+    {
+      "ecosystem": "crates",
+      "source": "ecosyste.ms",
+      "metric": "downloads",
+      "window": "cumulative",
+      "packages": 1000
+    }
+  ],
+  "files": [
+    {
+      "path": "corpus.csv",
+      "bytes": 248484,
+      "sha256": "b14abcaf9f30a632240f7d16ca4f68edab1004df0021c5092dad3986bcc5992f"
+    },
+    {
+      "path": "crates.txt",
+      "bytes": 11393,
+      "sha256": "8d3f10773e6c32410345894e72a3cf1ab43e89033a69cbdfcac0688970d63f83"
+    },
+    {
+      "path": "go.txt",
+      "bytes": 29362,
+      "sha256": "4f1de1a94719f7df04ce93cfc2a21a25b9f50ad9d9a97fcbc1a7fc96e348ebdd"
+    },
+    {
+      "path": "maven.txt",
+      "bytes": 33240,
+      "sha256": "69b39ea87df90a62f1d64f49e63c7bb846637bd31607f66ef8288e7e28599a47"
+    },
+    {
+      "path": "npm.txt",
+      "bytes": 15633,
+      "sha256": "c74a6d9c5806dd233c2e4954dec5fed7e28b5817e3abcf50b241fbf21c529140"
+    },
+    {
+      "path": "nuget.txt",
+      "bytes": 30047,
+      "sha256": "36a38650f953998d15c057c0b02407ecb859275ad4e1bf6116204a6f6b84434c"
+    },
+    {
+      "path": "packagist.txt",
+      "bytes": 21247,
+      "sha256": "4e15110ea41b41521ac5315e8c5ec9d52a76257bfc3e891ffc56f42d1adc9726"
+    },
+    {
+      "path": "pypi.txt",
+      "bytes": 12715,
+      "sha256": "c339c18d2a07e28b6cd830e11d9817f88e64a69aab6ae0138878701deb0428d3"
+    },
+    {
+      "path": "README.md",
+      "bytes": 1251,
+      "sha256": "c3427b692300d6c8919c53bbc619f8e406d68c8b6fba8ffebebc2cac158c52ab"
+    },
+    {
+      "path": "rubygems.txt",
+      "bytes": 13680,
+      "sha256": "19aa83f9d4ba0ff8919a32cd37a637d0be3e322c4f77cc26d32a8b8c0bc586d9"
+    }
+  ]
+}

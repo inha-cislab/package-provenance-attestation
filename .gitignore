@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.egg-info/
+.venv/
+repeated-measurement.jsonl
+/*-levels.jsonl
+/*-work/
+node_modules/
+/behavior/
+/npm-verification/
+/dataset/coordinates.csv
+/dataset/packages.csv
+/dataset/packages/
+/dataset/log_entries.jsonl
+/dataset/results/
+/current-coordinates.csv

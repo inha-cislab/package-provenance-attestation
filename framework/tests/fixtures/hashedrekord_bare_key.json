@@ -1,0 +1,21 @@
+{
+  "uuid": "000000000000000064f35a57f489f222398965b9649997636fcb1684fb38ca937e89a4c1fefc4ea6",
+  "payload": {
+    "body": "eyJhcGlWZXJzaW9uIjoiMC4wLjEiLCJraW5kIjoiaGFzaGVkcmVrb3JkIiwic3BlYyI6eyJkYXRhIjp7Imhhc2giOnsiYWxnb3JpdGhtIjoic2hhMjU2IiwidmFsdWUiOiJmMzhkMTkwMGEyZjczNDQzY2I4MDA5Mjg1NDg2ZjQ0OWY2ODMyNDYxMGNjNmRmOTk0OTk3MTdjZDRhZDg3NjY0In19LCJzaWduYXR1cmUiOnsiY29udGVudCI6Ik1FWUNJUUNrNm9rZzZjeExibm5UaldnTVFmaXV5cXZBaEJJV3ByU2cyOEtqWjBBbStBSWhBUFU2QVlqU0tORThqV0phM0thaGxwWFhwYVhhLzJBWE1Mb1B6cENpYUQxbCIsInB1YmxpY0tleSI6eyJjb250ZW50IjoiTFMwdExTMUNSVWRKVGlCUVZVSk1TVU1nUzBWWkxTMHRMUzBLVFVacmQwVjNXVWhMYjFwSmVtb3dRMEZSV1VsTGIxcEplbW93UkVGUlkwUlJaMEZGUWlzMU1XMHljMHRaYTNaNVQxQTRja00wVEhSSU1qTkpWa1o0Y0FveVZtWlpXSE5NWkRKSFNDOHJkSFpJYUdWbGRIUTNPR0pITkdKU2VEZFFTSFF2TkVneWVERnZUMmxQWkRWM2N5dHBRalpwTlVOd2FYVlJQVDBLTFMwdExTMUZUa1FnVUZWQ1RFbERJRXRGV1MwdExTMHRDZz09In19fX0=",
+    "integratedTime": 1704067200,
+    "logID": "80866d00e15e3956091be5415b517c5a2b42408a3a3935951549410cce3b35cb",
+    "logIndex": 0,
+    "verification": {
+      "inclusionProof": {
+        "checkpoint": "log.example.invalid - 1\n2\nzQjgRHlou4xToF9suReTiQV8RDMi8RSbqlsL000DHhk=\n\n\u2014 log.example.invalid gIZtADBFAiEA1+5VOTL3TIq8hCg30tKwiftlCd0twO34wZSShpG9Y8gCICRQ1PgG+/rtvfn7nFm9oNWXPyMyd1skJ4djh8B5SwqN\n",
+        "hashes": [
+          "f9fb7dbe1502c3b74ea7476b736c240a6599b751e2d4cbe325b3ab9fc197ddff"
+        ],
+        "logIndex": 0,
+        "rootHash": "cd08e0447968bb8c53a05f6cb9179389057c443322f1149baa5b0bd34d031e19",
+        "treeSize": 2
+      },
+      "signedEntryTimestamp": "MEUCIQDnUvoMpPqbonCwh9jmoxqP9xqJ2f71TLMkwauJnCI3xgIgRXNCehoowQ/evXaYcU3Ovy0hUWFRGLUjmnSlueM6QwE="
+    }
+  }
+}

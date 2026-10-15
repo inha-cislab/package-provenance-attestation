@@ -1,0 +1,8 @@
+{
+  "name": "provenance-sigstore-verifier",
+  "private": true,
+  "version": "1.0.0",
+  "dependencies": {
+    "sigstore": "5.0.0"
+  }
+}

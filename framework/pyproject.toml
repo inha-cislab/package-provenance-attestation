@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools==80.9.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "package-provenance"
+version = "1.0.0"
+description = "Measuring package provenance availability and verifiability across registries"
+readme = "README.md"
+requires-python = ">=3.12,<3.13"
+dependencies = ["cryptography==50.0.1"]
+
+[project.optional-dependencies]
+verify = ["sigstore==4.5.0", "pypi-attestations==0.0.30"]
+dev = ["pytest==9.1.1"]
+
+[project.scripts]
+provenance = "provenance.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["provenance*"]
+namespaces = false
+
+[tool.setuptools.package-data]
+"provenance.behavior" = ["*.cjs"]
+"provenance.verify" = ["sigstore_js/*.cjs", "sigstore_js/package*.json"]
